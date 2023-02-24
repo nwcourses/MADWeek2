@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADWeek2</string>
+    <string name="strPlus">+</string>
+    <string name="strMinus">-</string>
+    <string name="strMultiply">*</string>
+    <string name="strDivide">/</string>
+</resources>
